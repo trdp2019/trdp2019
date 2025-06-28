@@ -23,7 +23,7 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [tridip-dutta](https://www.linkedin.com/in/tridip-dutta-81885b253)
-- Twitter/X: [@yourhandle](#)
+- Twitter/X: [@TridipDutta17](https://x.com/TridipDutta17)
 - Portfolio: [googleit.in](https://googleit.in)
 
 ---
