@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Tridip Dutta
 
-<!--
-**trdp2019/trdp2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Marketing professional turned AI builder  
+💡 I create intelligent web tools, automations, and agentic workflows  
+🌐 Tech I use: Next.js · LangChain · Groq · OpenAI · Supabase · Redis · Streamlit · Docker  
+🧠 Learning by building – one smart app at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm Working On
+- 🤖 AI-powered multi-agent systems (LangChain + Groq)
+- ✍️ Content & marketing tools powered by LLMs
+- 🧰 Smart utilities for businesses & teams
+
+---
+
+## 📌 Featured Projects
+- **[Resume Analyzer AI](#)** – Get resume match score and job fit suggestions using LLMs  
+- **[Telegram Voice Bot](#)** – Bengali voice-to-text AI assistant  
+- **[Content Calendar Generator](#)** – AI workflow for brand planning
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [tridip-dutta](https://www.linkedin.com/in/tridip-dutta-81885b253)
+- Twitter/X: [@yourhandle](#)
+- Portfolio: [googleit.in](https://googleit.in)
+
+---
+
+⭐️ Let's build something awesome together!
